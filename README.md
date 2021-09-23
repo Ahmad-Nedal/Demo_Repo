@@ -7,3 +7,7 @@ Some Descriptions!!
 
 watch and learn
 n
+
+## Local Development
+
+1. Open index.html in your browser.
