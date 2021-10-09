@@ -8,7 +8,7 @@ Subject: Deep Learning course
 Instructor:Professor Bálint Gyires-Tóth  
 
 # Abstract:
-Deep learning has improved image recognition systems which can be applied in every aspect of our lives. In this project, I will build a DNN to recognize certain objects in some photo. adjust state of the art DNN's for recognition of other new-objects but we don't need to do training again.
+Deep learning has significantly improved image recognition systems which can be applied in every aspect of our lives. In this project, I will build a Deep Neural Network (DNN) to recognize certain objects in some photo using CIFAR-10 dataset to predict one of ten classes of objects. adjust state of the art DNN for recognition of other new-objects but we don't need to do training again.
 
 ## Requirments:
 1. numpy  
