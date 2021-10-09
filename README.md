@@ -1,7 +1,10 @@
 # Image Recognition with Deep Learning
 BY: Nedal Ahmad
+
 Aquincum Institute of Technology "AIT-Budapest", Fall semester 2021
+
 Subject: Deep Learning course
+
 Instructor:Professor Bálint Gyires-Tóth  
 
 # Abstract:
