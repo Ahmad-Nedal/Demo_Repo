@@ -1,5 +1,10 @@
 # Image Recognition with Deep Learning
+BY: Nedal Ahmad
+Aquincum Institute of Technology "AIT-Budapest", Fall semester 2021
+Subject: Deep Learning course
+Instructor:Professor Bálint Gyires-Tóth  
 
+# Abstract:
 Deep learning has improved image recognition systems which can be applied in every aspect of our lives. In this project, I will build a DNN to recognize certain objects in some photo. adjust state of the art DNN's for recognition of other new-objects but we don't need to do training again.
 
 ## Requirments:
